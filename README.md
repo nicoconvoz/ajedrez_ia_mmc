@@ -69,7 +69,6 @@ $ python mmc_chess_v21_async.py
 * Registro/Login con usuario y contraseña.
 * Elige *Jugar contra la IA* o *Ver IA vs IA*.
 * Durante la partida puedes:
-  * Importar PGN desde el menú *File → Cargar PGN…* (entrena la IA al instante).
   * Ver los *Clusters MMC* desde *Analyze*.
   * Reiniciar partida o memoria.
 
